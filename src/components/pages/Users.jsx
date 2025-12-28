@@ -48,6 +48,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 padding: 24px;
+color: black;
 `;
 
 const SUserArea = styled.div`

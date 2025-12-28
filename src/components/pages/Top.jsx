@@ -10,4 +10,5 @@ export const Top = () => {
 
 const SContainer = styled.div`
 text-align: center;
+color: black;
 `;
